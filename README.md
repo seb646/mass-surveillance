@@ -16,7 +16,7 @@ footer: Copyright © 2021 United States of Surveillance | GitHub | MIT License
 --- -->
 
 <p align="center">
-  <img src="https://masssurveillance.net/images/surveillance.png" width="350px">
+  <img src="https://masssurveillance.net/images/surveillance.png" width="300px">
 </p>
 
 
