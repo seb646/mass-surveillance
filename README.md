@@ -86,7 +86,7 @@ All of our articles are written in [Markdown](https://www.markdownguide.org/), w
 - **Court Cases:** `/cases`
 - **Resources:** `/resources.md` (root directory)
 
-Before committing any change to our master branch, we will thoroughly review your article and your sources. Since this is an academic project, please use proper Chicago style citations (including in-text for every idea or quote that isn't your own material). Once a change is accepted, our website will automatically pull the updates from our GitHub repository.
+Before committing any change to our master branch, we will thoroughly review your article and your sources. Since this is an academic project, please use proper Chicago style citations (including in-text for every idea or quote that isn't your own material). Once a change is accepted, our website automatically updates itself from our GitHub repository at midnight eastern U.S. time.
 
 ## Credits
 The **United States of Surveillance** was created by [**Sebastian Rodriguez**](https://srod.ca) as part of a digital humanities research project at the [University of Toronto](https://utoronto.ca). View a list of our [contributors](https://github.com/seb646/mass-surveillance/graphs/contributors).
