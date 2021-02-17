@@ -59,7 +59,7 @@ The **United States of Surveillance** aims to present a comprehensive summary of
 - [Resources]()
 
 ## Contribute
-If you'd like to contribute to this project, please fork our GitHub repository and begin development on your own branch. To work on the project in a local environment, use the following guide.
+If you'd like to contribute to this project, please fork our GitHub repository and begin development on your own branch. To work on the project in a local environment, input the following commands into your shell terminal.
 
 ### Install VuePress
 This step assumes that you have the [Node Package Manager](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) (NPM). If you do not have NPM, please install it before you proceed. 
