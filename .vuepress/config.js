@@ -5,7 +5,7 @@ module.exports = {
     plugins: ['@vuepress/last-updated'],
     dest: 'public',
     themeConfig: {
-        repo: 'seb646/surveillance-docs',
+        repo: 'seb646/mass-surveillance',
         repoLabel: 'GitHub',
         docsBranch: 'main',
         editLinks: true,

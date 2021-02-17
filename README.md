@@ -16,20 +16,20 @@ footer: Copyright © 2021 United States of Surveillance | GitHub | MIT License
 --- -->
 
 <p align="center">
-  <img src="/images/surveillance.png" width="350px">
+  <img src="https://masssurveillance.net/images/surveillance.png" width="350px">
 </p>
 
 
 <h1 align="center">The United States of Surveillance</h1>
 <p align="center">
-  <a href="https://github.com/seb646/surveillance-docs"><img src="https://img.shields.io/badge/Version-v1.0.0-red.svg"></a>
+  <a href="https://github.com/seb646/mass-surveillance"><img src="https://img.shields.io/badge/Version-v1.0.0-red.svg"></a>
   <a href="http://www.anodyne-productions.com/nova"><img src="https://img.shields.io/badge/VuePress-v1.8.1-brightgreen.svg"></a>
   <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/seb646/surveillance-docs/issues">Report a Bug</a> • 
-  <a href="/resources/contribute">Contribute</a>
+  <a href="https://github.com/seb646/mass-surveillance/issues">Report a Bug</a> • 
+  <a href="https://github.com/seb646/mass-surveillance">Contribute</a>
 </p>
 
 ## Overview
@@ -68,9 +68,9 @@ npm install -g vuepress
 ```
 
 ### Clone the Repository
-We recommend using Git to clone the repository. This will initialize your repository with git and allow you to contribute to the master branch of our project. Instead of using the command line, you can also use your preferred Git GUI (such as [GitHub Desktop](https://desktop.github.com/)) or [download the source files](https://github.com/seb646/surveillance-docs/archive/main.zip).
+We recommend using Git to clone the repository. This will initialize your repository with git and allow you to contribute to the master branch of our project. Instead of using the command line, you can also use your preferred Git GUI (such as [GitHub Desktop](https://desktop.github.com/)) or [download the source files](https://github.com/seb646/mass-surveillances/archive/main.zip).
 ```
-git clone https://github.com/seb646/surveillance-docs.git
+git clone https://github.com/seb646/mass-surveillance.git
 ```
 
 ### Start the Development Environment
@@ -89,7 +89,7 @@ All of our articles are written in [Markdown](https://www.markdownguide.org/), w
 Before committing any change to our master branch, we will thoroughly review your article and your sources. Since this is an academic project, please use proper Chicago style citations (including in-text for every idea or quote that isn't your own material). Once a change is accepted, our website will automatically pull the updates from our GitHub repository.
 
 ## Credits
-The **United States of Surveillance** was created by [**Sebastian Rodriguez**](https://srod.ca) as part of a digital humanities research project at the [University of Toronto](https://utoronto.ca). View a list of our [contributors](https://github.com/seb646/surveillance-docs/graphs/contributors).
+The **United States of Surveillance** was created by [**Sebastian Rodriguez**](https://srod.ca) as part of a digital humanities research project at the [University of Toronto](https://utoronto.ca). View a list of our [contributors](https://github.com/seb646/mass-surveillance/graphs/contributors).
 
 
 ### License
