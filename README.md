@@ -19,14 +19,7 @@ footer: Copyright © 2021 United States of Surveillance | GitHub | MIT License
   <img src="https://masssurveillance.net/images/surveillance.png" width="300px">
 </p>
 
-
 <h1 align="center">The United States of Surveillance</h1>
-<p align="center">
-  <a href="https://github.com/seb646/mass-surveillance"><img src="https://img.shields.io/badge/Version-v1.0.0-red.svg"></a>
-  <a href="http://www.anodyne-productions.com/nova"><img src="https://img.shields.io/badge/VuePress-v1.8.1-brightgreen.svg"></a>
-  <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
-</p>
-
 <p align="center">
   <a href="https://github.com/seb646/mass-surveillance/issues">Report a Bug</a> • 
   <a href="https://github.com/seb646/mass-surveillance">Contribute</a>
@@ -62,7 +55,7 @@ The **United States of Surveillance** aims to present a comprehensive summary of
 If you'd like to contribute to this project, please fork our GitHub repository and begin development on your own branch. To work on the project in a local environment, input the following commands into your shell terminal.
 
 ### Install VuePress
-This step assumes that you have the [Node Package Manager](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) (NPM). If you do not have NPM, please install it before you proceed. 
+This step assumes that you have [Node.js](https://nodejs.org) and [Node Package Manager](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) (NPM). If you do not have Node, please install it before you proceed. 
 ```
 npm install -g vuepress
 ```
