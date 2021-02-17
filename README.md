@@ -30,12 +30,12 @@ The **United States of Surveillance** aims to present a comprehensive summary of
 
 ## Table of Contents
 - [Introduction](https://masssurveillance.net)
-- [Understanding Legislation](https://masssurveillance.net/legislation)
-  - [Foreign Intelligence Surveillance Act (FISA)](https://masssurveillance.net/legislation/fisa)
-  - [USA PATRIOT Act](https://masssurveillance.net/legislation/patriot-act)
-  - [Executive Order 12333](https://masssurveillance.net/legislation/eo-12333)
-  - [Third Party Doctrine](https://masssurveillance.net/legislation/third-party-doctrine)
-  - [UKUSA Agreement](https://masssurveillance.net/legislation/ukusa)
+- [Understanding the Law](https://masssurveillance.net/law)
+  - [Foreign Intelligence Surveillance Act](https://masssurveillance.net/law/fisa)
+  - [USA PATRIOT Act](https://masssurveillance.net/law/patriot-act)
+  - [Third Party Doctrine](https://masssurveillance.net/law/third-party-doctrine)
+  - [Unitary Executive Theory](https://masssurveillance.net/law/unitary-executive)
+  - [UKUSA Agreement](https://masssurveillance.net/law/ukusa)
 - [Surveillance Programs](https://masssurveillance.net/programs)
   - [NSA XKeyScore](https://masssurveillance.net/programs/xkeyscore)
   - [NSA PRISM](https://masssurveillance.net/programs/prism)
@@ -56,19 +56,19 @@ If you'd like to contribute to this project, please fork our GitHub repository a
 
 ### Install VuePress
 This step assumes that you have [Node.js](https://nodejs.org) and [Node Package Manager](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) (NPM). If you do not have Node, please install it before you proceed. 
-```
+```bash
 npm install -g vuepress
 ```
 
 ### Clone the Repository
 We recommend using Git to clone the repository. This will initialize your repository with git and allow you to contribute to the master branch of our project. Instead of using the command line, you can also use your preferred Git GUI (such as [GitHub Desktop](https://desktop.github.com/)) or [download the source files](https://github.com/seb646/mass-surveillances/archive/main.zip).
-```
+```bash
 git clone https://github.com/seb646/mass-surveillance.git
 ```
 
 ### Start the Development Environment
 You can test the changes you've made by starting the VuePress development environment. This will load a page on your computer's `localhost` namespace where you can navigate a demo version of the website.
-```
+```bash
 vuepress dev
 ```
 
@@ -82,7 +82,7 @@ All of our articles are written in [Markdown](https://www.markdownguide.org/), w
 Before committing any change to our master branch, we will thoroughly review your article and your sources. Since this is an academic project, please use proper Chicago style citations (including in-text for every idea or quote that isn't your own material). Once a change is accepted, our website automatically updates itself from our GitHub repository at midnight eastern U.S. time.
 
 ## Credits
-The **United States of Surveillance** was created by [**Sebastian Rodriguez**](https://srod.ca) as part of a digital humanities research project at the [University of Toronto](https://utoronto.ca). View a list of our [contributors](https://github.com/seb646/mass-surveillance/graphs/contributors).
+The **United States of Surveillance** was created by [Sebastian Rodriguez](https://srod.ca) as part of a digital humanities research project at the [University of Toronto](https://utoronto.ca). View a list of our [contributors](https://github.com/seb646/mass-surveillance/graphs/contributors).
 
 
 ### License

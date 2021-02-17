@@ -22,15 +22,15 @@ module.exports = {
               collapsable: false, 
             },
             {
-              title: 'Understanding Legislation',
-              path: '/legislation/',
+              title: 'Understanding the Law',
+              path: '/law/',
               collapsable: false, 
               children: [
-                '/legislation/fisa',
-                '/legislation/patriot-act',
-                '/legislation/eo-12333',
-                '/legislation/third-party-doctrine',
-                '/legislation/ukusa',
+                '/law/fisa',
+                '/law/patriot-act',
+                '/law/third-party-doctrine',
+                '/law/unitary-executive',
+                '/law/ukusa',
               ]
             },
             {

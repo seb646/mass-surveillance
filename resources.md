@@ -5,6 +5,8 @@
 - [Declassified Documents @ Office of the DNI (intel.gov)](https://www.intel.gov/intel-vault)
 - [Edward Snowden's Revelations @ The Courage Foundation](https://edwardsnowden.com/revelations/)
 - [Electronic Frontier Foundation](https://www.eff.org/)
+- [Privacy & Surveillance @ American Civil Liberties Union](https://www.aclu.org/issues/national-security/privacy-and-surveillance)
+- [Reform Government Surveillance](https://www.reformgovernmentsurveillance.com/)
 - [Section 215 @ The Demand Progress Education Fund](https://www.section215.org/)
 
 ## Glossary
