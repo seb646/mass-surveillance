@@ -3,15 +3,13 @@ module.exports = {
     description: 'Just playing around',
     home: true,
     plugins: ['@vuepress/last-updated'],
+    dest: 'public',
     themeConfig: {
         repo: 'seb646/surveillance-docs',
         repoLabel: 'GitHub',
         docsBranch: 'main',
         editLinks: true,
         editLinkText: 'Edit this page on GitHub!',
-        // nav: [
-        //     { text: 'GitHub', link: 'https://github.com/seb646/surveillance-docs' }
-        // ],
         lastUpdated: 'Last Updated',
         sidebar: [
             {
@@ -60,11 +58,6 @@ module.exports = {
                 title: 'Resources',
                 path: '/resources',
                 collapsable: false, 
-                // children: [
-                //   '/resources/glossary',
-                //   '/resources/contribute',
-                //   '/resources/credits',
-                // ]
               },
         ]
     }
