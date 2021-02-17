@@ -7,8 +7,6 @@
 - [Electronic Frontier Foundation](https://www.eff.org/)
 - [Section 215 @ The Demand Progress Education Fund](https://www.section215.org/)
 
-## Contribute
-
 ## Glossary
 | Term | Definition |
 | ----------- | ----------- |

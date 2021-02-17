@@ -58,8 +58,38 @@ The **United States of Surveillance** aims to present a comprehensive summary of
   - [United States v. Moalin]()
 - [Resources]()
 
+## Contribute
+If you'd like to contribute to this project, please fork our GitHub repository and begin development on your own branch. To work on the project in a local environment, use the following guide.
+
+### Install VuePress
+This step assumes that you have the [Node Package Manager](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) (NPM). If you do not have NPM, please install it before you proceed. 
+```
+npm install -g vuepress
+```
+
+### Clone the Repository
+We recommend using Git to clone the repository. This will initialize your repository with git and allow you to contribute to the master branch of our project. Instead of using the command line, you can also use your preferred Git GUI (such as [GitHub Desktop](https://desktop.github.com/)) or [download the source files](https://github.com/seb646/surveillance-docs/archive/main.zip).
+```
+git clone https://github.com/seb646/surveillance-docs.git
+```
+
+### Start the Development Environment
+You can test the changes you've made by starting the VuePress development environment. This will load a page on your computer's `localhost` namespace where you can navigate a demo version of the website.
+```
+vuepress dev
+```
+
+### Editing & Creating Articles
+All of our articles are written in [Markdown](https://www.markdownguide.org/), with original copies hosted in our GitHub repository. The three sections of files are located in the following folders:
+- **Understanding Legislation:** `/legislation`
+- **Surveillance Programs:** `/programs`
+- **Court Cases:** `/cases`
+- **Resources:** `/resources.md` (root directory)
+
+Before committing any change to our master branch, we will thoroughly review your article and your sources. Since this is an academic project, please use proper Chicago style citations (including in-text for every idea or quote that isn't your own material). Once a change is accepted, our website will automatically pull the updates from our GitHub repository.
+
 ## Credits
-The **United States of Surveillance** was created by [**Sebastian Rodriguez**](https://srod.ca) as part of a digital humanities research project at the [University of Toronto](https://utoronto.ca). 
+The **United States of Surveillance** was created by [**Sebastian Rodriguez**](https://srod.ca) as part of a digital humanities research project at the [University of Toronto](https://utoronto.ca). View a list of our [contributors](https://github.com/seb646/surveillance-docs/graphs/contributors).
 
 
 ### License
