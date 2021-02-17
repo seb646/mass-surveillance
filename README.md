@@ -22,7 +22,7 @@ footer: Copyright © 2021 United States of Surveillance | GitHub | MIT License
 <h1 align="center">The United States of Surveillance</h1>
 <p align="center">
   <a href="https://github.com/seb646/mass-surveillance/issues">Report a Bug</a> • 
-  <a href="https://github.com/seb646/mass-surveillance">Contribute</a>
+  <a href="#contribute">Contribute</a>
 </p>
 
 ## Overview
