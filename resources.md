@@ -25,3 +25,7 @@ Once you eject, you are on your own and won’t be receiving future updates or b
 ::: danger Danger Banner
 All options listed on this page apply to the default theme only. If you are using a custom theme, the options may be different.
 :::
+
+::: details
+This is a details block, which does not work in IE / Edge
+:::

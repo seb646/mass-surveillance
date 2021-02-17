@@ -4,6 +4,9 @@ module.exports = {
     home: true,
     plugins: ['@vuepress/last-updated'],
     dest: 'public',
+    markdown: {
+        pageSuffix: '',
+    },
     themeConfig: {
         repo: 'seb646/mass-surveillance',
         repoLabel: 'GitHub',
@@ -11,6 +14,7 @@ module.exports = {
         editLinks: true,
         editLinkText: 'Edit this page on GitHub!',
         lastUpdated: 'Last Updated',
+        pageSuffix: '',
         sidebar: [
             {
               title: 'Introduction',
