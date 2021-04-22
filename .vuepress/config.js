@@ -23,7 +23,7 @@ module.exports = {
             },
             {
               title: 'Understanding the Law',
-              path: '/law/',
+              // path: '/law/',
               collapsable: false, 
               children: [
                 '/law/fisa',
@@ -34,7 +34,7 @@ module.exports = {
             },
             {
               title: 'Surveillance Programs',
-              path: '/programs/',
+              // path: '/programs/',
               collapsable: false, 
               children: [
                 '/programs/xkeyscore',
@@ -47,7 +47,7 @@ module.exports = {
             },
             {
                 title: 'Court Cases',
-                path: '/cases/',
+                // path: '/cases/',
                 collapsable: false, 
                 children: [
                   '/cases/fisa2011',
