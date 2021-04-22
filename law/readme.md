@@ -1,4 +1,4 @@
-# Legislation
+# Mass Surveillance Law
 There is no one law that solely authorizes mass surveillance programs, including those that incidentially collect information on U.S. citizens. Instead, the government operates mass surveillance programs by weaving together different laws and precedents.
 
 ## Foreign Intelligence Surveillance Act
