@@ -8,6 +8,7 @@
 - [Privacy & Surveillance @ American Civil Liberties Union](https://www.aclu.org/issues/national-security/privacy-and-surveillance)
 - [Reform Government Surveillance](https://www.reformgovernmentsurveillance.com/)
 - [Section 215 @ The Demand Progress Education Fund](https://www.section215.org/)
+- [Snowden Archive – The SIDtoday Files @ The Intercept](https://theintercept.com/snowden-sidtoday/)
 
 ## Glossary
 | Term | Definition |

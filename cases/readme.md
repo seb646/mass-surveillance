@@ -1,2 +1,12 @@
 # Case Law
-The Foreign Intelligence Surveillance Court (FISC) is a double edged sword: while it authorizes mandates for mass surveillance programs, it is also responsible for the oversight of those programs and has produced precedents that have fundamentally changed interpretations of the Constitution. Before reviewing specific FISC cases and opinions, it is important to define a few terms used in these documents. Targeting refers to the procedures used to determine who will be monitored through a surveillance program; minimization refers to the process intelligence agencies use to prune information before dissemination; and a certification is a mandate by the government authorizing a surveillance program or other activity. 
+The Foreign Intelligence Surveillance Court (FISC) is a double edged sword: while it authorizes mandates for mass surveillance programs, it is also responsible for the oversight of those programs and has produced precedents that have fundamentally changed interpretations of the Constitution. 
+
+## Court Cases
+### FISA Court Opinions
+- [FISA Court Opinion (2011)](https://masssurveillance.net/cases/fisa2011)
+- [FISA Court Opinion (2015)](https://masssurveillance.net/cases/fisa20115)
+- [FISA Court Opinion (2016)](https://masssurveillance.net/cases/fisa2016)
+- [FISA Court Opinion (2018)](https://masssurveillance.net/cases/fisa2018)
+
+### Non-FISA Court Opinions
+- [United States v. Moalin](https://masssurveillance.net/cases/us-v-moalin)

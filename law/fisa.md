@@ -28,6 +28,11 @@ While the law does aim to restrict domestic data collection, stating that progra
 
 The website will outline the government's potential to collect data on U.S. citizens and incidents where they have already violated constitutional protections. 
 
+<div style="padding: 10px;border: 1px solid #e9ecef;border-radius: 5px;">
+    <iframe width="100%" height="404" src="https://www.youtube-nocookie.com/embed/0hLjuVyIIrs?start=126" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+    <span style="margin-top: 5px;display: block;text-align: center;">Edward Snowden talking about U.S. surveillance and how foreign intelligence turned into domestic data collection. <a href="#sources">[2]</a></span>
+</div>
+
 ## Foreign Intelligence Surveillance Court
 The **Foreign Surveillance Intelligence Court (FISC)** is a branch of the U.S. federal courts system tasked with handling classified FISA requests. The FISC, unlike typical federal and local courts, hears their cases behind the wall of national security; all transcripts, rulings, and court orders are sealed and classified to the general public until the Director of National Intelligence decides to declassify a document. This allows FISA cases to not only circumvent Sixth Amendment rights, in the case of U.S. citizens, but it also establishes a broad set of hidden legal precedents. 
 
@@ -35,3 +40,4 @@ In recent years, several FISC ruilings were declassified and thus became open to
 
 ## Sources
 1. FISA Amendments Act, 122 Stat. 2436 (2008), [https://www.congress.gov/bill/110th-congress/house-bill/6304/text](https://www.congress.gov/bill/110th-congress/house-bill/6304/text).
+2. *NSA whistleblower Edward Snowden: 'I don't want to live in a society that does these sort of things'*. The Guardian, 2013. [https://www.youtube.com/watch?v=m8F99BT8QAA](https://www.youtube.com/watch?v=m8F99BT8QAA).
