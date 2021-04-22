@@ -30,7 +30,6 @@ module.exports = {
                 '/law/patriot-act',
                 '/law/third-party-doctrine',
                 '/law/unitary-executive',
-                '/law/ukusa',
               ]
             },
             {

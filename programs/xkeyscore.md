@@ -1,3 +1,11 @@
 # NSA XKeyScore
+XKeyScore is a database that focuses on internet activity, containing “emails, online chats and the browsing histories of millions of individuals” (Greenwald 2013). 
+
+The analysts using the database need only write a broad justification for a search, which is not reviewed by a court or a supervisor before access to the database is granted. According to Snowden, this would allow anyone with clearance at the NSA to view “nearly everything a typical user does on the internet,” with real-time updates of a user’s activity (Greenwald 2013). Although, under FISA, the NSA needs a warrant to specifically target and access the data of U.S. citizens, XKeyScore provides the NSA with the capability to target virtually anyone. 
+
+Since XKeyScore focuses on internet-based surveillance, it is logical to assume that the government treats the data as unprivileged information through the third-party doctrine. When a person uses the internet, they provide their ISP with a log of every website they visit, which is often also logged by a cross-site tracker, providing the government with another source to obtain information. Further, users provide their emails, chat history, and other online activity through the services they use, allowing these third parties to create records of the user’s activity. The NSA’s XKeyScore pulls all of this information together into one database, with the ability to search through and link a person’s activity using metadata.
+
+According to The Guardian, XKeyScore assisted in capturing 300 terrorists by 2008  (Greenwald 2013). It is unclear when the program began, if it exists in the same form today, or what role XKeyScore played in capturing those 300 terrorists. 
 
 ## Sources
+1. Greenwald, Glenn. “XKeyscore: NSA Tool Collects 'Nearly Everything a User Does on the Internet'.” The Guardian, July 31, 2013. [https://www.theguardian.com/world/2013/jul/31/nsa-top-secret-program-online-data](https://www.theguardian.com/world/2013/jul/31/nsa-top-secret-program-online-data).

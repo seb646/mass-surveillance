@@ -26,7 +26,11 @@ footer: Copyright © 2021 United States of Surveillance | GitHub | MIT License
 </p>
 
 ## Overview
-The **United States of Surveillance** aims to present a comprehensive summary of all relevant material related to programmatic surveillance in the United States. Our project helps educators, students, and the general public understand the laws, programs, and court cases related to U.S. mass surveillance. We use credible sources, including journalists, scholars, and government documents, to compile all of our articles. The project is open source; anyone can contribute to the information on our website. 
+With the help of Congress and a secret court, President George W. Bush planted the seed for what would become a systemic abuse of law and power in the United States. Since the attacks on September 11, a barrage of laws and programs have drastically expanded the country's digital surveillance practices. Hidden behind several layers of a complex legal structure, mass surveillance infringes upon millions of Americans' rights while producing little to no meaningful results in the Global War on Terrorism.
+
+This digital project, The United States of Surveillance, demonstrates how domestic mass surveillance programs in the United States are sanctioned, operated, and utilized by deconstructing the supporting legal frameworks. The project develops a publicly-accessible documentation website that analyzes government papers, award-winning news publications, and first-hand accounts of surveillance programs. By disentangling the juridical intricacies, the project aims to make surveillance laws, programs, and ramifications accessible and understandable to the general public. The project specifically explores how the Foreign Intelligence Surveillance Act, the PATRIOT Act, the third-party doctrine, and the unitary executive work together to legalize domestic mass surveillance. It provides a brief overview of the country's most notorious mass surveillance programs, including MYSTIC, ECHELON, and FASCIA. Finally, the project reveals how programs such as these continue to be perpetuated under a FISA court exemption to the Fourth Amendment's search protections, one that effectively granted the court power to change Constitutional law without public knowledge. 
+
+By translating complex legalese into understandable explanations, The United States of Surveillance not only reveals how the current surveillance state systematically threatens the rights of citizens but provides them with information that can be used to reassert their rights to privacy and consent, as well as resist further erosion of democratic governance.
 
 ## Table of Contents
 - [Introduction](https://masssurveillance.net)
@@ -35,7 +39,6 @@ The **United States of Surveillance** aims to present a comprehensive summary of
   - [USA PATRIOT Act](https://masssurveillance.net/law/patriot-act)
   - [Third Party Doctrine](https://masssurveillance.net/law/third-party-doctrine)
   - [Unitary Executive Theory](https://masssurveillance.net/law/unitary-executive)
-  - [UKUSA Agreement](https://masssurveillance.net/law/ukusa)
 - [Surveillance Programs](https://masssurveillance.net/programs)
   - [NSA XKeyScore](https://masssurveillance.net/programs/xkeyscore)
   - [NSA PRISM](https://masssurveillance.net/programs/prism)
@@ -52,7 +55,9 @@ The **United States of Surveillance** aims to present a comprehensive summary of
 - [Resources](https://masssurveillance.net/resources)
 
 ## Contribute
-If you'd like to contribute to this project, please fork our GitHub repository and begin development on your own branch. To work on the project in a local environment, input the following commands into your shell terminal.
+The project is open source; anyone can contribute to the information on this website. If you'd like to contribute, please fork our GitHub repository and begin development on your own branch. When you're ready, commit the changes to the master branch of our repositiory. Every commit is subject to extensive review for accuracy and use of impartial language. Please cite all of your sources in Chicago style. 
+
+To work on the project in a local environment, follow the steps listed below.
 
 ### Install VuePress
 This step assumes that you have [Node.js](https://nodejs.org) and [Node Package Manager](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) (NPM). If you do not have Node, please install it before you proceed. 
@@ -74,7 +79,7 @@ vuepress dev
 
 ### Editing & Creating Articles
 All of our articles are written in [Markdown](https://www.markdownguide.org/), with original copies hosted in our GitHub repository. The three sections of files are located in the following folders:
-- **Understanding Legislation:** `/legislation`
+- **Understanding Legislation:** `/law`
 - **Surveillance Programs:** `/programs`
 - **Court Cases:** `/cases`
 - **Resources:** `/resources.md` (root directory)

@@ -12,22 +12,7 @@
 ## Glossary
 | Term | Definition |
 | ----------- | ----------- |
-| Programmatic Surveillance | Title |
-| Precedent | Text |
-
-## Banners
-::: tip Tip Banner
-All options listed on this page apply to the default theme only. If you are using a custom theme, the options may be different.
-:::
-
-::: warning Warning Banner
-Once you eject, you are on your own and won’t be receiving future updates or bugfixes to the default theme even if you upgrade VuePress. 
-:::
-
-::: danger Danger Banner
-All options listed on this page apply to the default theme only. If you are using a custom theme, the options may be different.
-:::
-
-::: details
-This is a details block, which does not work in IE / Edge
-:::
+| Precedent | A court ruiling used for deciding subsequent cases involving similar facts or legal issues |
+| Targetting | The procedures used to determine who will be monitored through a surveillance program |
+| Minimization | The process intelligence agencies use to prune information before dissemination |
+| Certification | A mandate by the government authorizing a surveillance program or other activity |
