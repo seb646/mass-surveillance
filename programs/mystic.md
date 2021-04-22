@@ -4,19 +4,19 @@ The NSA’s MYSTIC program creates an archive of telephone calls, including meta
 According to Edward Snowden, the NSA can access the content of an unnamed foreign country’s calls “as long as a month” after the calls occurred. After the program began, between 2009 and 2011, it recorded “every single conversation nationwide” for 30 day intervals (Gellman 2014). Although the program provides the ability for the NSA to listen to virtually any phone conversation, analysts only view around one percent of calls. According to The Washington Post, “most of the conversations collected by RETRO [the tool behind Mystic’s program] would be irrelevant to U.S. national security interests” (ibid). 
 
 <div style="padding: 10px;border: 1px solid rgb(233, 236, 239);border-radius: 5px;width: 45%;display:inline-block;margin:auto;">
-    <a href="https://theintercept.com/document/2014/05/19/mystic/"><img src="/archive/mystic.gif" width="100%"></a><br> 
+    <a href="https://theintercept.com/document/2014/05/19/mystic/"><img src="/archive/mystic.gif" width="100%" alt="An article on the MYSTIC program"></a><br> 
     <span style="margin-top: 5px;display: block;text-align: center;">An article on the MYSTIC program. <a href="#sources">[2]</a></span>
 </div>
 
 <div style="padding: 10px;border: 1px solid rgb(233, 236, 239);border-radius: 5px;width: 45%;display:inline-block;margin:auto;">
-    <a href="https://theintercept.com/document/2014/05/19/somalget-memo/"><img src="/archive/somalget.gif" width="100%"></a><br> 
+    <a href="https://theintercept.com/document/2014/05/19/somalget-memo/"><img src="/archive/somalget.gif" width="100%" alt="Internal memo describing SOMALGET, a program within MYSTIC"></a><br> 
     <span style="margin-top: 5px;display: block;text-align: center;">An internal memo describing SOMALGET, a program within MYSTIC. <a href="#sources">[3]</a></span>
 </div>
 
 While it is true that the program was first created to operate in foreign nations, the tool has the ability to access any phone provider in any country. With Section 215, if the NSA incidentally collects the calls of a U.S. citizen, the FBI would also have access to that information for domestic investigations. 
 
 <div style="padding: 10px;border: 1px solid #e9ecef;border-radius: 5px;">
-    <iframe width="100%" height="404" src="https://www.youtube-nocookie.com/embed/m8F99BT8QAA?start=88" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+    <iframe width="100%" height="404" src="https://www.youtube-nocookie.com/embed/m8F99BT8QAA?start=88" title="President Obama talking about the NSA's MYSITC program" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
     <span style="margin-top: 5px;display: block;text-align: center;">President Obama talking about the NSA's MYSITC program. <a href="#sources">[4]</a></span>
 </div>
 

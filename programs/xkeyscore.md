@@ -9,13 +9,13 @@ According to The Guardian, XKeyScore assisted in capturing 300 terrorists by 200
 
 
 <div style="padding: 10px;border: 1px solid rgb(233, 236, 239);border-radius: 5px;width: 80%;margin: auto;">
-    <a href="https://theintercept.com/document/2015/07/01/xks-intro/"><img src="/archive/xks-1.gif" width="100%"></a><br> 
+    <a href="https://theintercept.com/document/2015/07/01/xks-intro/"><img src="/archive/xks-1.gif" width="100%" alt="An internal NSA presentation explaining the XKeyScore database"></a><br> 
     <span style="margin-top: 5px;display: block;text-align: center;">An internal NSA presentation explaining the XKeyScore database. <a href="#sources">[2]</a></span>
 </div>
 <br>
 <div style="padding: 10px;border: 1px solid rgb(233, 236, 239);border-radius: 5px;width: 80%;margin: auto;">
-    <a href="https://theintercept.com/document/2015/07/01/xks-intro/"><img src="/archive/xks-2.gif" width="100%"></a><br> 
-    <span style="margin-top: 5px;display: block;text-align: center;">An internal NSA presentation outlining the various inputs accepted by XKeyScore. <a href="#sources">[2]</a></span>
+    <a href="https://theintercept.com/document/2015/07/01/xks-intro/"><img src="/archive/xks-2.gif" width="100%" alt="An internal NSA presentation outlining the inputs accepted by XKeyScore"></a><br> 
+    <span style="margin-top: 5px;display: block;text-align: center;">An internal NSA presentation outlining the inputs accepted by XKeyScore. <a href="#sources">[2]</a></span>
 </div>
 
 

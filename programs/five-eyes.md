@@ -6,7 +6,7 @@ A 2001 report by the European Parliament states that ECHELON posed “threats to
 In theory, the ability for several nations to pool their resources together should prevent a significant number of threats. When the program also has the ability to collect information on their own country’s citizens, it threatens the democracy in that country and degrades the legitimacy of the country’s government and laws. 
 
 <div style="padding: 10px 0;border: 1px solid rgb(233, 236, 239);border-radius: 5px;width: 80%;margin: auto;">
-    <a href="https://theintercept.com/snowden-sidtoday/5987435-five-eyes-interoperability-discussions-at-nsaw/"><img src="/archive/five-eyes.gif" width="100%"></a><br> 
+    <a href="https://theintercept.com/snowden-sidtoday/5987435-five-eyes-interoperability-discussions-at-nsaw/"><img src="/archive/five-eyes.gif" width="100%" alt="Internal NSA memo on data sharing in the Five Eyes Network"></a><br> 
     <span style="padding-top: 10px;display: block;text-align: center;border-top: 1px solid rgb(233, 236, 239);">An internal NSA Signals Intelligence Directorate (SID) memo on data sharing in the Five Eyes Network. <a href="#sources">[2]</a></span>
 </div>
 

@@ -10,7 +10,7 @@ The Air Marshal Association, representing the views of the Air Marshals with the
 Although the Air Marshal’s program is related to human, and not signals, intelligence, it is widely recognized by those in the program as ineffective. 
 
 <div style="padding: 10px;border: 1px solid rgb(233, 236, 239);border-radius: 5px;width: 80%;margin: auto;">
-    <a href="https://apps.bostonglobe.com/news/nation/graphics/2018/07/tsa-quiet-skies/"><img src="/archive/quiet_skies_bulletin.png" width="100%"></a><br> 
+    <a href="https://apps.bostonglobe.com/news/nation/graphics/2018/07/tsa-quiet-skies/"><img src="/archive/quiet_skies_bulletin.png" alt="An internal TSA/FAMS memo outlining the Quiet Skies program" width="100%"></a><br> 
     <span style="margin-top: 5px;display: block;text-align: center;">An internal TSA/FAMS memo outlining the Quiet Skies program. <a href="#sources">[1]</a></span>
 </div>
 

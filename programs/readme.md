@@ -13,8 +13,8 @@ While the government continues to insist that programmatic surveillance assists 
 The study proves that the NSA’s programs are not necessary for preventing the majority of terrorist attacks. Further, U.S. citizens should not have to sacrifice their rights to privacy and protections from unlawful searches and seizures in exchange for security – but the government has not given citizens the choice. 
 
 <div style="padding: 10px;border: 1px solid #e9ecef;border-radius: 5px;">
-    <iframe width="100%" height="404" src='https://www.c-span.org/video/standalone/?c4945239/user-clip-surveillance' allowfullscreen='allowfullscreen' frameborder=0></iframe><br>
-    <span style="margin-top: 5px;display: block;text-align: center;">Gen. Keith Alexander, former Director of the NSA, testifying about the effectiveness of the NSA's MYSITC program in front of the Senate Appropriations Committee. <a href="#sources">[2]</a></span>
+    <iframe title="Former NSA Director testifying about the effectiveness of the NSA's surveillance program" width="100%" height="404" src='https://www.c-span.org/video/standalone/?c4945239/user-clip-surveillance' allowfullscreen='allowfullscreen' frameborder=0></iframe><br>
+    <span style="margin-top: 5px;display: block;text-align: center;">Gen. Keith Alexander, former Director of the NSA, testifying about the effectiveness of the NSA's phone surveillance programs in front of the Senate Appropriations Committee. <a href="#sources">[2]</a></span>
 </div>
 
 ## Sources

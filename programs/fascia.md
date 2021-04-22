@@ -6,7 +6,7 @@ The FASCIA program was first brought to light by Edward Snowden through The Wash
 The statistic Gellman provided shows that mass surveillance programs, like FASCIA, are ineffective. Terabytes of data are collected every day, with no feasible way of determining how much information is collected on U.S. citizens. 
 
 <div style="padding: 10px 0;border: 1px solid rgb(233, 236, 239);border-radius: 5px;width: 80%;margin: auto;">
-    <a href="https://theintercept.com/snowden-sidtoday/3232989-the-rewards-of-metadata/"><img src="/archive/fascia.gif" width="100%"></a><br> 
+    <a href="https://theintercept.com/snowden-sidtoday/3232989-the-rewards-of-metadata/"><img src="/archive/fascia.gif" alt="Internal NSA memo on the FASCIA program" width="100%"></a><br> 
     <span style="padding-top: 10px;display: block;text-align: center;border-top: 1px solid rgb(233, 236, 239);">An internal NSA Signals Intelligence Directorate (SID) memo on the FASCIA program. <a href="#sources">[2]</a></span>
 </div>
 

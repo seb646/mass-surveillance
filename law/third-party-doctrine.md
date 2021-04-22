@@ -10,7 +10,7 @@ This is an important legal precedent that the government can use when obtaining 
 The U.S. Supreme Court ruled in 2017, during *[Carpenter v. United States](https://en.wikipedia.org/wiki/Carpenter_v._United_States)*, that the government requires a search warrant before accessing the cellphone location data of U.S. citizens when that information is givern to a third party (Carpenter v. United States 2017). The court's ruiling focused solely on cell phone location data and did not impact other information, such as internet search history, which can still be obtained through the third party doctrine.
 
 <div style="padding: 10px;border: 1px solid #e9ecef;border-radius: 5px;">
-    <iframe width="100%" height="404" src="https://www.youtube-nocookie.com/embed/2ZH9Bd-pCrg?start=3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+    <iframe width="100%" height="404" src="https://www.youtube-nocookie.com/embed/2ZH9Bd-pCrg?start=3" title="A break down of the Third Party Doctrine" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
     <span style="margin-top: 5px;display: block;text-align: center;">A break down of the Third Party Doctrine by Paul Ohm, a professor at Georgetown University Law Center. <a href="#sources">[3]</a></span>
 </div>
 
